@@ -433,5 +433,5 @@ end
 our_id = 263048641
 now = os.time()
 math.randomseed(now)
-started = true
+started = false
 
