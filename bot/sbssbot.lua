@@ -240,7 +240,7 @@ function create_config( )
     "welcome"
     },
     sudo_users = {144658773,114934518,94746365},--Sudo users
-    disabled_channels = {},
+    disabled_channels = {263048641},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
